@@ -5,7 +5,7 @@
     "amt": "50",
     "shop": "Vasantha Bavan",
     "ftype": "Mor",
-    "pic": "../public/cart/dosa.png",
+    "pic": "./cart/dosa.png",
     "quantity": 1,
     "originalPrice": "50"
   },
@@ -16,7 +16,7 @@
     "amt": "40",
     "shop": "Vasantha Bavan",
     "ftype": "Mor",
-    "pic": "../src/assets/cartImg/Idli.jpeg",
+    "pic": "./cart/Idli.jpeg",
     "quantity": 1,
     "originalPrice": "40"
   },
@@ -26,7 +26,7 @@
     "amt": "15",
     "shop": "Vasantha Bavan",
     "ftype": "Mor",
-    "pic": "../src/assets/cartImg/Vada.jpeg",
+    "pic": "./cart/Vada.jpeg",
     "quantity": 1,
     "originalPrice": "15"
   },
@@ -36,7 +36,7 @@
     "amt": "40",
     "shop": "Vasantha Bavan",
     "ftype": "Mor",
-    "pic": "../src/assets/cartImg/Pongal.jpeg",
+    "pic": "./cart/Pongal.jpeg",
     "quantity": 1,
     "originalPrice": "40"
   },
@@ -46,7 +46,7 @@
     "amt": "60",
     "shop": "Vasantha Bavan",
     "ftype": "Mor",
-    "pic": "../src/assets/cartImg/Boori.jpeg",
+    "pic": "./cart/Boori.jpeg",
     "quantity": 1,
     "originalPrice": "60"
   },
@@ -56,7 +56,7 @@
     "amt": "25",
     "shop": "Vasantha Bavan",
     "ftype": "Mor",
-    "pic": "../src/assets/cartImg/Coffee.jpeg",
+    "pic": "./cart/Coffee.jpeg",
     "quantity": 1,
     "originalPrice": "25"
   },
@@ -66,7 +66,7 @@
     "amt": "45",
     "shop": "Amman Food stall",
     "ftype": "Mor",
-    "pic": "../src/assets/cartImg/Egg_Roast.jpeg",
+    "pic": "./cart/Egg_Roast.jpeg",
     "quantity": 1,
     "originalPrice": "45"
   },
@@ -76,7 +76,7 @@
     "amt": "40",
     "shop": "Vasantha Bavan",
     "ftype": "Mor",
-    "pic": "../src/assets/cartImg/parotta.jpeg",
+    "pic": "./cart/parotta.jpeg",
     "quantity": 1,
     "originalPrice": "40"
   },
@@ -86,7 +86,7 @@
     "amt": "120",
     "shop": "Suvai",
     "ftype": "AfterNoon",
-    "pic": "../src/assets/cartImg/Briyani.jpeg",
+    "pic": "./cart/Briyani.jpeg",
     "quantity": 1,
     "originalPrice": "120"
   },
@@ -96,7 +96,7 @@
     "amt": "160",
     "shop": "Suvai",
     "ftype": "AfterNoon",
-    "pic": "../src/assets/cartImg/Fried_rice.jpeg",
+    "pic": "./cart/Fried_rice.jpeg",
     "quantity": 1,
     "originalPrice": "160"
   },
@@ -106,7 +106,7 @@
     "amt": "160",
     "shop": "Suvai",
     "ftype": "AfterNoon",
-    "pic": "../src/assets/cartImg/noodles.jpeg",
+    "pic": "./cart/noodles.jpeg",
     "quantity": 1,
     "originalPrice": "160"
   },
@@ -116,7 +116,7 @@
     "amt": "110",
     "shop": "Suvai",
     "ftype": "AfterNoon",
-    "pic": "../src/assets/cartImg/Egg_rice.jpeg",
+    "pic": "./cart/Egg_rice.jpeg",
     "quantity": 1,
     "originalPrice": "110"
   },
@@ -126,7 +126,7 @@
     "amt": "110",
     "shop": "Suvai",
     "ftype": "AfterNoon",
-    "pic": "../src/assets/cartImg/Egg_noodles.jpeg",
+    "pic": "./cart/Egg_noodles.jpeg",
     "quantity": 1,
     "originalPrice": "110"
   },
@@ -136,7 +136,7 @@
     "amt": "125",
     "shop": "Kerala Mess",
     "ftype": "AfterNoon",
-    "pic": "../src/assets/cartImg/Kotthu.jpeg",
+    "pic": "./cart/Kotthu.jpeg",
     "quantity": 1,
     "originalPrice": "125"
   },
@@ -146,7 +146,7 @@
     "amt": "500",
     "shop": "Arabian",
     "ftype": "Night",
-    "pic": "../src/assets/cartImg/Grill.jpeg",
+    "pic": "./cart/Grill.jpeg",
     "quantity": 1,
     "originalPrice": "500"
   },
@@ -156,7 +156,7 @@
     "amt": "480",
     "shop": "Arabian",
     "ftype": "Night",
-    "pic": "../src/assets/cartImg/BBQ.jpeg",
+    "pic": "./cart/BBQ.jpeg",
     "quantity": 1,
     "originalPrice": "480"
   },
@@ -166,7 +166,7 @@
     "amt": "440",
     "shop": "Arabian",
     "ftype": "Night",
-    "pic": "../src/assets/cartImg/Thanthoori.jpeg",
+    "pic": "./cart/Thanthoori.jpeg",
     "quantity": 1,
     "originalPrice": "440"
   },
@@ -176,7 +176,7 @@
     "amt": "140",
     "shop": "Arabian",
     "ftype": "Night",
-    "pic": "../src/assets/cartImg/naan_Banner.jpeg",
+    "pic": "./cart/naan_Banner.jpeg",
     "quantity": 1,
     "originalPrice": "140"
   },
@@ -186,7 +186,7 @@
     "amt": "180",
     "shop": "Ammikal",
     "ftype": "Night",
-    "pic": "../src/assets/cartImg/fishFry.jpeg",
+    "pic": "./cart/fishFry.jpeg",
     "quantity": 1,
     "originalPrice": "180"
   },
@@ -196,7 +196,7 @@
     "amt": "220",
     "shop": "Ammikal",
     "ftype": "Night",
-    "pic": "../src/assets/cartImg/fishfinger.jpeg",
+    "pic": "./cart/fishfinger.jpeg",
     "quantity": 1,
     "originalPrice": "220"
   }

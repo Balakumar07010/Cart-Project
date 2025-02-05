@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 export const Success = () => {
   return (
-    <div className="flex items-center justify-center min-h-screen bg-gray-100">
+    <div className="flex items-center justify-center min-h-full bg-gray-100">
       <div className="bg-white shadow-lg rounded-lg p-8 max-w-md text-center">
         <div className="flex justify-center">
           <div className="bg-green-500 text-white w-16 h-16 flex items-center justify-center rounded-full">
