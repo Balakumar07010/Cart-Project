@@ -5,7 +5,7 @@
     "amt": "50",
     "shop": "Vasantha Bavan",
     "ftype": "Mor",
-    "pic": "../src/assets/cartImg/dosa.png",
+    "pic": "../public/cart/dosa.png",
     "quantity": 1,
     "originalPrice": "50"
   },
