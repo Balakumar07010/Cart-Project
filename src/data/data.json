@@ -1,0 +1,203 @@
+[
+  {
+    "id": 1,
+    "name": "Dosa",
+    "amt": "50",
+    "shop": "Vasantha Bavan",
+    "ftype": "Mor",
+    "pic": "../src/assets/cartImg/dosa.png",
+    "quantity": 1,
+    "originalPrice": "50"
+  },
+
+  {
+    "id": 2,
+    "name": "Idli",
+    "amt": "40",
+    "shop": "Vasantha Bavan",
+    "ftype": "Mor",
+    "pic": "../src/assets/cartImg/Idli.jpeg",
+    "quantity": 1,
+    "originalPrice": "40"
+  },
+  {
+    "id": 3,
+    "name": "Vada",
+    "amt": "15",
+    "shop": "Vasantha Bavan",
+    "ftype": "Mor",
+    "pic": "../src/assets/cartImg/Vada.jpeg",
+    "quantity": 1,
+    "originalPrice": "15"
+  },
+  {
+    "id": 4,
+    "name": "Pongal",
+    "amt": "40",
+    "shop": "Vasantha Bavan",
+    "ftype": "Mor",
+    "pic": "../src/assets/cartImg/Pongal.jpeg",
+    "quantity": 1,
+    "originalPrice": "40"
+  },
+  {
+    "id": 5,
+    "name": "Poori",
+    "amt": "60",
+    "shop": "Vasantha Bavan",
+    "ftype": "Mor",
+    "pic": "../src/assets/cartImg/Boori.jpeg",
+    "quantity": 1,
+    "originalPrice": "60"
+  },
+  {
+    "id": 6,
+    "name": "Coffee",
+    "amt": "25",
+    "shop": "Vasantha Bavan",
+    "ftype": "Mor",
+    "pic": "../src/assets/cartImg/Coffee.jpeg",
+    "quantity": 1,
+    "originalPrice": "25"
+  },
+  {
+    "id": 7,
+    "name": "Egg Roast",
+    "amt": "45",
+    "shop": "Amman Food stall",
+    "ftype": "Mor",
+    "pic": "../src/assets/cartImg/Egg_Roast.jpeg",
+    "quantity": 1,
+    "originalPrice": "45"
+  },
+  {
+    "id": 8,
+    "name": "Paroto(2)",
+    "amt": "40",
+    "shop": "Vasantha Bavan",
+    "ftype": "Mor",
+    "pic": "../src/assets/cartImg/parotta.jpeg",
+    "quantity": 1,
+    "originalPrice": "40"
+  },
+  {
+    "id": 9,
+    "name": "Biriyani",
+    "amt": "120",
+    "shop": "Suvai",
+    "ftype": "AfterNoon",
+    "pic": "../src/assets/cartImg/Briyani.jpeg",
+    "quantity": 1,
+    "originalPrice": "120"
+  },
+  {
+    "id": 10,
+    "name": "Fried Rice",
+    "amt": "160",
+    "shop": "Suvai",
+    "ftype": "AfterNoon",
+    "pic": "../src/assets/cartImg/Fried_rice.jpeg",
+    "quantity": 1,
+    "originalPrice": "160"
+  },
+  {
+    "id": 11,
+    "name": "Fried Noodles",
+    "amt": "160",
+    "shop": "Suvai",
+    "ftype": "AfterNoon",
+    "pic": "../src/assets/cartImg/noodles.jpeg",
+    "quantity": 1,
+    "originalPrice": "160"
+  },
+  {
+    "id": 12,
+    "name": "Egg Rice",
+    "amt": "110",
+    "shop": "Suvai",
+    "ftype": "AfterNoon",
+    "pic": "../src/assets/cartImg/Egg_rice.jpeg",
+    "quantity": 1,
+    "originalPrice": "110"
+  },
+  {
+    "id": 13,
+    "name": "Egg Noodles",
+    "amt": "110",
+    "shop": "Suvai",
+    "ftype": "AfterNoon",
+    "pic": "../src/assets/cartImg/Egg_noodles.jpeg",
+    "quantity": 1,
+    "originalPrice": "110"
+  },
+  {
+    "id": 14,
+    "name": "Kotthu Parota",
+    "amt": "125",
+    "shop": "Kerala Mess",
+    "ftype": "AfterNoon",
+    "pic": "../src/assets/cartImg/Kotthu.jpeg",
+    "quantity": 1,
+    "originalPrice": "125"
+  },
+  {
+    "id": 15,
+    "name": "Grill Chicken",
+    "amt": "500",
+    "shop": "Arabian",
+    "ftype": "Night",
+    "pic": "../src/assets/cartImg/Grill.jpeg",
+    "quantity": 1,
+    "originalPrice": "500"
+  },
+  {
+    "id": 16,
+    "name": "BBQ",
+    "amt": "480",
+    "shop": "Arabian",
+    "ftype": "Night",
+    "pic": "../src/assets/cartImg/BBQ.jpeg",
+    "quantity": 1,
+    "originalPrice": "480"
+  },
+  {
+    "id": 17,
+    "name": "Thanthori",
+    "amt": "440",
+    "shop": "Arabian",
+    "ftype": "Night",
+    "pic": "../src/assets/cartImg/Thanthoori.jpeg",
+    "quantity": 1,
+    "originalPrice": "440"
+  },
+  {
+    "id": 18,
+    "name": "Naan(2) + Banner Butter Masala ",
+    "amt": "140",
+    "shop": "Arabian",
+    "ftype": "Night",
+    "pic": "../src/assets/cartImg/naan_Banner.jpeg",
+    "quantity": 1,
+    "originalPrice": "140"
+  },
+  {
+    "id": 19,
+    "name": "Fish Fry",
+    "amt": "180",
+    "shop": "Ammikal",
+    "ftype": "Night",
+    "pic": "../src/assets/cartImg/fishFry.jpeg",
+    "quantity": 1,
+    "originalPrice": "180"
+  },
+  {
+    "id": 20,
+    "name": "Fish Finger",
+    "amt": "220",
+    "shop": "Ammikal",
+    "ftype": "Night",
+    "pic": "../src/assets/cartImg/fishfinger.jpeg",
+    "quantity": 1,
+    "originalPrice": "220"
+  }
+]
